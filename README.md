@@ -30,3 +30,6 @@ To run both client & server projects in parallel, use the Gradle wrapper:
 For support, please use the Groovy Community Slack (https://groovycommunity.slack.com/) or open an issue on Github: https://github.com/grails-profiles/react/issues
 
 
+
+https://english.slks.dk/libraries/library-standards/isil/
+http://www.bl.uk/reshelp/atyourdesk/docsupply/help/replycodes/dirlibcodes/dlc.pdf
