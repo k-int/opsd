@@ -2,6 +2,9 @@
 see http://grailsblog.objectcomputing.com/posts/2016/11/14/introducing-the-react-profile-for-grails.html
 
 
+See grails create-app myApp --profile=react
+and https://github.com/frangarcia/react-1
+
 
 Info on signing...
 
